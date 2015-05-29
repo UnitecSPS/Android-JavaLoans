@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">JavaLoans</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="cliente">Cliente</string>
+    <string name="balance">Balance</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_single_loan">SingleLoanActivity</string>
+    <string name="title_activity_abono">AbonoActivity</string>
+</resources>
